@@ -1,0 +1,296 @@
+{
+  "main": {
+    "id": "5cb5da350c30b342",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec7486ed00db5836",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a86a12995d2b7ddb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02.Introducción a CI-CD y DevOps Visión General.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b2764c7d2e085686",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03. ¿Cómo era antes de \"CI - CD DevOps\"?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "78ac3a790200ee13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Antes de CI-CD DevOps. Puntos Débiles.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "92bbcbdbb6c74b47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5. La llegada de la Integración Continua.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3f073470d386074e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6. Integración Continua Vs. Integración Tradicional.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "96c71f9f781e14d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7. Pipelines.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "59d47e84020a618a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "8. Antes de la Entrega Continua.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7276d9e7eb61eb9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10. La llegada de la Entrega Continua.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "12142c2b3c4cde98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "11. Operaciones tradicionales Vs. Entrega Continua.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8e782c0d4e138bc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "12. Implementación Continua.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "df35063690de5fb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "13. DEVOPS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 10
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9282696741d4c817",
+    "type": "split",
+    "children": [
+      {
+        "id": "5de780cb271ba5b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a52c1ca40fe21fe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fce2165aa2970fa6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f8aacda5cd5eb76c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "04b04fe238fd2a32",
+    "type": "split",
+    "children": [
+      {
+        "id": "5213ec92060ce5f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8d12085fbb4c295",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "13. DEVOPS.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e32e4bc5c76d58d2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "13. DEVOPS.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a4370924042a9363",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "608a47ddb97c8c7a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "13. DEVOPS.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "df35063690de5fb5",
+  "lastOpenFiles": [
+    "12. Implementación Continua.md",
+    "13. DEVOPS.md",
+    "Screenshot 2024-02-02 at 11.59.05 AM.png",
+    "11. Operaciones tradicionales Vs. Entrega Continua.md",
+    "Screenshot 2024-02-02 at 11.56.54 AM.png",
+    "10. La llegada de la Entrega Continua.md",
+    "Screenshot 2024-02-02 at 11.43.53 AM.png",
+    "Screenshot 2024-02-02 at 11.42.33 AM.png",
+    "Screenshot 2024-02-02 at 11.42.20 AM.png",
+    "Screenshot 2024-02-02 at 11.41.24 AM.png",
+    "8. Antes de la Entrega Continua.md",
+    "Screenshot 2024-02-02 at 11.37.38 AM.png",
+    "Screenshot 2024-02-02 at 11.30.21 AM.png",
+    "Screenshot 2024-02-02 at 11.29.34 AM.png",
+    "7. Pipelines.md",
+    "Screenshot 2024-02-02 at 10.42.04 AM.png",
+    "6. Integración Continua Vs. Integración Tradicional.md",
+    "5. La llegada de la Integración Continua.md",
+    "03. ¿Cómo era antes de \"CI - CD DevOps\"?.md",
+    "4. Antes de CI-CD DevOps. Puntos Débiles.md",
+    "02.Introducción a CI-CD y DevOps Visión General.md",
+    "Untitled",
+    "Welcome.md"
+  ]
+}
